@@ -1,1 +1,3 @@
-# odin-recipes
+# Odin-Recipes
+
+Create recipe website
